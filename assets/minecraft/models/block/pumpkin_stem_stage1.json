@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "all": "block/pumpkin_stem",
+        "particle": "block/pumpkin_stem"
+    },
+    "elements": [
+        {   "from": [ 7, -1, 7 ],
+            "to": [ 9, 4, 9 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 2, 5 ], "texture": "#all" },
+                "south": { "uv": [ 2, 0, 4, 5 ], "texture": "#all" },
+                "west":  { "uv": [  6, 0, 8, 5 ], "texture": "#all" },
+                "east":  { "uv": [  8, 0, 10, 5 ], "texture": "#all" },
+                "up":  { "uv": [  7, 7, 9, 9 ], "texture": "#all" }
+            }
+        }
+    ]
+}
