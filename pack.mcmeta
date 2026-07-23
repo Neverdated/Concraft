@@ -1,6 +1,7 @@
 {
     "pack": {
         "description": "§aThe 1x1 Resource Pack\n§9Patched by Neverdated",
-        "pack_format": 69
+        "min_format": [84,0],
+		"max_format": [84,1]
     }
 }
